@@ -1,0 +1,5 @@
+let idade = parseInt(prompt("Digite sua idade: "))
+
+let paraCem = 100 - idade
+
+alert("você tem a idade "+idade+" anos faltam " +paraCem+ " anos pára completar 100 anos")
